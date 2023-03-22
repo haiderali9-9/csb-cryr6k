@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://haiderali9-9.github.io/csb-cryr6k/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://haiderali9-9.github.io/csb-cryr6k/static/js/main.176ccd64.chunk.js",
+    "main.js.map": "https://haiderali9-9.github.io/csb-cryr6k/static/js/main.176ccd64.chunk.js.map",
+    "runtime-main.js": "https://haiderali9-9.github.io/csb-cryr6k/static/js/runtime-main.9237ef51.js",
+    "runtime-main.js.map": "https://haiderali9-9.github.io/csb-cryr6k/static/js/runtime-main.9237ef51.js.map",
+    "static/js/2.d79793e4.chunk.js": "https://haiderali9-9.github.io/csb-cryr6k/static/js/2.d79793e4.chunk.js",
+    "static/js/2.d79793e4.chunk.js.map": "https://haiderali9-9.github.io/csb-cryr6k/static/js/2.d79793e4.chunk.js.map",
+    "index.html": "https://haiderali9-9.github.io/csb-cryr6k/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://haiderali9-9.github.io/csb-cryr6k/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d79793e4.chunk.js.LICENSE.txt": "https://haiderali9-9.github.io/csb-cryr6k/static/js/2.d79793e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9237ef51.js",
+    "static/js/2.d79793e4.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.176ccd64.chunk.js"
+  ]
+}
